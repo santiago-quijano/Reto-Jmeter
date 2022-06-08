@@ -1,0 +1,8 @@
+fromPort,toPort,flight,price,airline
+Paris,Cairo,234,432.98,United Airlines
+Philadelphia,Dublin,43,472.56,Virgin America
+Boston,New York,9696,200.98,Aer Lingus
+Portland,Berlin,12,765.32,Virgin America
+San+Diego,London,4346,233.98,Lufthansa
+Mexico City,Rome,9696,200.98,Aer Lingu
+Sao Pablo,Buenos Aires,43,472.56,Virgin America

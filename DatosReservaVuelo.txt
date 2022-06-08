@@ -1,0 +1,8 @@
+inputName,address,city,state,zipCode,cardType,creditCardNumber,creditCardMonth,creditCardYear,nameOnCard
+Juan,12 main st,Popayan,Popayan,19000,visa,1233,10,2021,Juan
+Roman,15 main st,Cali,Cali,19002,visa,6443,09,2020,Roman
+Ana,17 main st,Pereira,Pereira,19003,visa,33452,02,2019,Ana
+Daniela,20 main st,Neiva,Neiva,19010,visa,7764,08,2018,Daniela
+Adrian,13 main st,Manizales,Manizales,19022,visa,9982,12,2020,Adrian
+Valentina,33 main st,Medellin,Medellin,19044,visa,4432,04,2015,Valentina
+Juana,154 main st,Bogota,Bogota,19012,visa,3313,06,2019,Juana
